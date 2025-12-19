@@ -6,7 +6,7 @@ I needed a realistic environment to practice and demonstrate enterprise security
 ## Goal
 - Build a segmented enterprise network with centralized identity.
 - Collect endpoint + network telemetry into a SIEM.
-- Detect real attack behaviors (not just signatures).
+- Detect real attack behaviors (not just signatures). 
 - Validate detections through controlled offensive testing.
 - Produce documentation and artifacts that are interview-ready.
 
